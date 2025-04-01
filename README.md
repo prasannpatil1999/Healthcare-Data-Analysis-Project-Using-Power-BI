@@ -53,7 +53,7 @@ The data for this project comes from Patient_History_Sample_Data.csv, which cont
  ### How to Use
 1. Open the Excel file to explore the data.
 2. Review the Problem Statement Word file to understand the key objectives.
-3. Use the Screenshots to get a quick view of the results without opening the Excel file.
+3. Use the Screenshots to get a quick view of the results without opening the Power BI file.
 
 ### Dashboard Screenshot
 #### 🏷️ Sales Overview
